@@ -1,6 +1,5 @@
 from flask import Flask, request, Response
 from flask import render_template
-import help
 import sqlite3
 import random
 application = app = Flask(__name__)
